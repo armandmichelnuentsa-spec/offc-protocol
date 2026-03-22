@@ -1,21 +1,94 @@
 MIT License
 
-Copyright (c) 2026 MichelDev237
+Copyright (c) 2026 Operduke Willik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this conceptual framework and associated documentation files (the "OFFC Project"),
+to deal in the Project without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Project, and to permit persons to whom the Project is furnished, subject to
+the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Attribution Requirement
+
+Any use, reproduction, or redistribution of this Project or substantial parts of it
+must include clear attribution to the original author:
+
+"Original conceptual framework: OFFC (Offcoin Protocol) by Operduke Willik"
+
+Attribution must not be removed or obscured in derived works.
+
+---
+
+2. Conceptual Nature
+
+This Project is strictly a conceptual, theoretical, and experimental framework.
+
+It does NOT represent:
+
+- a financial product  
+- an investment instrument  
+- a cryptocurrency or token  
+- a regulated financial service  
+- a guarantee of economic performance or stability  
+
+Any implementation or derivative work must clearly state its independent nature.
+
+---
+
+3. No Warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR ITS USE.
+
+---
+
+4. Research & Educational Use
+
+This Project may be used for:
+
+- academic research  
+- economic modeling  
+- simulation and theoretical analysis  
+- educational purposes  
+- open-source experimentation  
+
+Commercial implementations inspired by this Project are permitted,
+provided they do not falsely claim affiliation with the original author.
+
+---
+
+5. Derivative Works
+
+You are allowed to create derivative works, provided that:
+
+- they are significantly modified or extended  
+- they do not misrepresent the original OFFC concept  
+- they clearly indicate changes made from the original framework  
+
+---
+
+6. Naming & Identity Protection
+
+The name "OFFC" and "Offcoin Protocol" should not be used
+in a way that suggests official endorsement, governance, or control
+by the original author unless explicitly authorized.
+
+---
+
+7. Final Clause
+
+This Project is an open conceptual exploration of multi-currency
+stability systems and is intended to encourage discussion, critique,
+and innovation in digital monetary design.
+
+---
+
+END OF LICENSE
