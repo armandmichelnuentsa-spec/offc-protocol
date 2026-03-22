@@ -1,0 +1,21 @@
+{
+  "currencies": [
+    "USD",
+    "EUR",
+    "CHF",
+    "SGD",
+    "CAD"
+  ],
+  "initial_weights": {
+    "USD": 0.30,
+    "EUR": 0.25,
+    "CHF": 0.15,
+    "SGD": 0.15,
+    "CAD": 0.15
+  },
+  "constraints": {
+    "min_weight": 0.05,
+    "max_weight": 0.40,
+    "rebalancing_frequency_days": 7
+  }
+}
