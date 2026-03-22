@@ -1,0 +1,9 @@
+{
+  "model": "dynamic_weighting_v1",
+  "algorithm": "volatility_inverse_weighting",
+  "rules": {
+    "higher_volatility": "lower_weight",
+    "lower_volatility": "higher_weight",
+    "sum_constraint": 1.0
+  }
+}
